@@ -1,7 +1,7 @@
 # University Course Registration and Academic Management System
 
-**Student Name:** _Your Name_
-**Registration No.:** _Your Reg No._
+**Name:** Muheto Rutayisire Jess
+**Registration No.:** 26481
 
 ## Analysis and Design
 
